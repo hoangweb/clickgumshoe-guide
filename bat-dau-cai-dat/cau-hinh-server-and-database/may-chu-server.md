@@ -26,7 +26,7 @@ Sau đó bạn nhấn nút “**Test API**” để kiểm tra kết nối Serve
 
 ### Xác minh tài khoản Heroku \(khuyến nghị\)
 
-Bạn nên xác minh tài khoản Heroku nếu website của bạn nhận &gt;300 click/ngày. Để xác minh, bạn chỉ cần thêm thẻ Visa vào tài khoản.
+Bạn nên xác minh tài khoản Heroku nếu website của bạn nhận &gt;200 click/ngày. Khi đã xác minh, tài khoản của bạn sẽ an toàn. Để xác minh, bạn chỉ cần thêm thẻ Visa vào tài khoản.
 
 Bạn làm theo các bước như hình dưới:
 
@@ -36,5 +36,5 @@ Bạn làm theo các bước như hình dưới:
 
 Sau khi điền đầy đủ thông tin và số thẻ Visa, bạn nhấn "**Save Details**". Nếu thêm thẻ Visa thành công thì tài khoản của bạn đã xác minh thành công.
 
-> Lưu ý: Trong thẻ của bạn cần có $1 \(~23 nghìn đồng\) để Heroku lấy phí xác minh. Bạn chỉ cần xác minh một lần và được sử dụng vĩnh viễn.
+> Lưu ý: Trong thẻ của bạn cần có $1 \(~23 nghìn đồng\) để Heroku lấy phí xác minh \([xem thêm](https://devcenter.heroku.com/articles/account-verification)\). Bạn chỉ cần xác minh một lần và được sử dụng vĩnh viễn.
 
