@@ -34,7 +34,7 @@ description: Các câu hỏi thường gặp bạn cần biết
 
 **Tại sao bạn không nhận được email báo cáo hàng ngày?**
 
-> Nếu bạn không nhận được báo cáo gửi qua mail, bạn hãy kiểm tra lại cấu hình SMTP đã đúng chưa. Xem hướng dẫn [tại đây](https://help.clickgumshoe.com/bat-dau-cai-dat/cau-hinh-website/smtp).
+> Nếu bạn không nhận được báo cáo gửi qua mail, bạn hãy kiểm tra lại cấu hình SMTP đã đúng chưa. Xem hướng dẫn [**tại đây**](https://help.clickgumshoe.com/bat-dau-cai-dat/cau-hinh-website/smtp).
 
 **Tại sao tôi đã stop chiến dịch nhưng phần mềm vẫn thống kê click chuột?**
 
