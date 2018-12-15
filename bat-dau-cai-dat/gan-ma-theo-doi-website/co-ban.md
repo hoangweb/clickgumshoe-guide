@@ -11,7 +11,7 @@ Trên tab "Mã theo dõi" bạn sẽ cấu hình chuyển đổi, sau đó lấy
 
 ![](../../.gitbook/assets/ma_theo_doi.png)
 
-Tùy chọn chuyển đổi:
+### Cấu hình chuyển đổi
 
 1. **Nút gọi điện**: nhập số điện thoại của bạn. Đây là tiện ích thêm nút gọi điện thoại trên website được tích hợp sẵn trong mã theo dõi. Nó hiển thị như hình dưới:
 
@@ -41,6 +41,8 @@ Nếu khách hàng điền form thì thông tin sẽ gửi về email khi bạn 
 >
 > * Tùy chọn "Hiển thị popup" không bắt buộc.
 > * Đa số các phần mềm auto click hiện nay không có hành vi truy cập đa dạng trên website. Kích hoạt popup là ý tưởng để bạn biết được đối thủ click quảng cáo của bạn chủ yếu do người thật hay phần mềm.
+
+### Tạo mã javascript
 
 Cuối cùng, nhấn nút "Tạo" để lấy mã Javascript và gắn trong cặp thẻ_**&lt;head&gt;&lt;/head&gt;**_ trên website của bạn. _\(Nếu bạn không quen làm việc này thì hãy gửi đoạn code, nhờ kỹ thuật web hỗ trợ\)_
 
