@@ -4,21 +4,45 @@ description: Hướng dẫn cài đặt và sử dụng phần mềm Clickgumsho
 
 # Hướng dẫn chung
 
-> Clickgumshoe.com là phần mềm theo dõi hành vi truy cập trang web và chặn IP click ảo tự động. Đây là giải pháp hạn chế click tặc quảng cáo Google.
->
-> Clickgumshoe.com là phần mềm **Minh Bạch và Miễn Phí 100%**.
+### Phần mềm miễn phí 100%
 
-Tính năng phần mềm [https://chongclicktac.com/phan-mem-chan-click-ao/](https://chongclicktac.com/phan-mem-chan-click-ao/)  
-Cách chặn click ảo hiệu quả [https://www.hoangweb.com/cong-cu/5-cach-chan-click-ao-click-tac-khi-quang-cao-google](https://www.hoangweb.com/cong-cu/5-cach-chan-click-ao-click-tac-khi-quang-cao-google)
+Clickgumshoe.com là phần mềm theo dõi hành vi truy cập trang web và chặn IP click ảo tự động. Đây là giải pháp hạn chế click tặc quảng cáo Google.
 
-\#Hướng dẫn gồm 2 phần:
+> * Tính năng phần mềm [https://chongclicktac.com/phan-mem-chan-click-ao](https://chongclicktac.com/phan-mem-chan-click-ao) 
+> * Cách chặn click ảo hiệu quả [https://www.hoangweb.com/cong-cu/5-cach-chan-click-ao-click-tac-khi-quang-cao-google](https://www.hoangweb.com/cong-cu/5-cach-chan-click-ao-click-tac-khi-quang-cao-google)
 
-* **CÁC BƯỚC CÀI ĐẶT**
-* **HƯỚNG DẪN SỬ DỤNG**
+### Hình ảnh phần mềm
 
-Hãy bắt đầu để bảo vệ chiến dịch quảng cáo của bạn ngay hôm nay!
+{% tabs %}
+{% tab title="Cấu hình chặn" %}
+![](.gitbook/assets/cau_hinh_chan.png)
+{% endtab %}
 
-Về tác giả:
+{% tab title="Lịch sử nhấp chuột" %}
+![](.gitbook/assets/lich_su_nhap_chuot.png)
+{% endtab %}
+
+{% tab title="Báo cáo" %}
+![](.gitbook/assets/bao_cao.png)
+{% endtab %}
+
+{% tab title="Gửi bồi hoàn" %}
+![](.gitbook/assets/boi_hoan.png)
+{% endtab %}
+{% endtabs %}
+
+### Các bước cài đặt
+
+Cài đặt gồm 6 bước, bạn làm theo thứ tự các bước ở menu phía bên trái.
+
+> 1. Tạo tài khoản & thêm website
+> 2. Thêm Server & CSDL
+> 3. Cấu hình
+> 4. Kết nối Google Ads
+> 5. Gắn mã theo dõi
+> 6. Kiểm tra cài đặt
+
+### Về tác giả
 
 **Hoàng Huy**  
 Email: hoangweb24@gmail.com  
@@ -29,4 +53,6 @@ FB: [https://www.facebook.com/hoangweb24](https://www.facebook.com/hoangweb24)
 | Ủng hộ tôi | Tài khoản ngân hàng |
 | :--- | :--- |
 | ![](.gitbook/assets/donate-button.png) | **QUÁCH QUANG HUY** Số tài khoản: 0021 000 236 449 Vietcombank – Chi nhánh Hoàn Kiếm, Hà Nội |
+
+**Hãy bắt đầu để bảo vệ chiến dịch quảng cáo của bạn ngay hôm nay!**
 
