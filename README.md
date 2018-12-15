@@ -18,7 +18,7 @@ Clickgumshoe.com là phần mềm theo dõi hành vi truy cập trang web và ch
 ![](.gitbook/assets/cau_hinh_chan.png)
 {% endtab %}
 
-{% tab title="Lịch sử nhấp chuột" %}
+{% tab title="Lượt truy cập" %}
 ![](.gitbook/assets/lich_su_nhap_chuot.png)
 {% endtab %}
 
