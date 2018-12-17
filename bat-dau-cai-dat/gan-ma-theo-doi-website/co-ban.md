@@ -4,8 +4,8 @@ description: Chèn mã Javascript trên website (Khuyến nghị)
 
 # Cách 1 \(Javascript\)
 
-> * **Ưu điểm**: Đơn giản, dễ làm.
-> * **Nhược điểm**: Không theo dõi được click chuột nếu javascript bị chặn trên trình duyệt.
+> * **Ưu điểm**: Dễ làm.
+> * **Nhược điểm**: Không theo dõi được khi người dùng tắt javascript.
 
 Trên tab "Mã theo dõi" bạn sẽ cấu hình chuyển đổi, sau đó lấy mã javascript để chèn vào website.
 

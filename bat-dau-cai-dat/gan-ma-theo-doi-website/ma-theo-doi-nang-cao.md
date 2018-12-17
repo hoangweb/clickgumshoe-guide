@@ -4,8 +4,8 @@ description: Sử dụng PHP (dành cho người biết lập trình php)
 
 # Cách 2 \(PHP\)
 
-> * **Ưu điểm**: Theo dõi được click chuột nếu người dùng thoát website quá nhanh \(1-2s\)
-> * **Nhược điểm**: Người biết lập trình \(php\) mới làm được.
+> * **Ưu điểm**: Theo dõi được khi người dùng tắt javascript.
+> * **Nhược điểm**: Khó làm. \(người biết code mới làm được\)
 
 Cách 2 là bạn sẽ tải bộ code plugin của chúng tôi lên hosting, nơi chứa website của bạn và tích hợp cùng với mã nguồn của website \(vd: PHP code thuần, wordpress,..\).
 
