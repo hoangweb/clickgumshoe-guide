@@ -12,7 +12,7 @@ description: Các câu hỏi thường gặp bạn cần biết
 
 > Kết nối tài khoản Google Ads bằng cách cho phép Clickgumshoe.com quản lý chiến dịch Adwords của bạn, phần mềm sẽ tự động thêm IP vào khung chặn IP trong chiến dịch. Việc này hoàn toàn tự động qua API và theo chính sách bảo mật [**AdWords OAuth 2.0**](https://developers.google.com/adwords/api/docs/guides/authentication) của Google, không ảnh hưởng đến cài đặt chiến dịch cũng như tối ưu quảng cáo của bạn.
 >
-> > **CẢNH BÁO!** Một số Tool trên thị trường \(như autoads.asia, chaanclickao.com, fff.com.vn..\) họ yêu cầu làm người quản lý tài khoản Google Ads của bạn để chặn IP bằng cách gửi lời mời quản lý thủ công qua email của bạn. Điều này rất nguy hiểm, chỉ có những ai bạn thật tin tưởng thì mới chia sẻ Full quyền quản lý cho họ. Bằng cách này, thông tin chiến dịch của bạn sẽ hiển thị trong tài khoản MCC của họ và có thể sửa xóa mà bạn không được kiểm soát.
+> > **CẢNH BÁO!** Một số Tool trên thị trường họ yêu cầu làm người quản lý tài khoản Google Ads của bạn để chặn IP bằng cách gửi lời mời quản lý thủ công qua email của bạn. Điều này rất nguy hiểm, chỉ có những ai bạn thật tin tưởng thì mới chia sẻ Full quyền quản lý cho họ. Bằng cách này, thông tin chiến dịch của bạn sẽ hiển thị trong tài khoản MCC của họ và có thể sửa xóa mà bạn không được kiểm soát.
 
 **IP click ảo sẽ bị chặn sau bao lâu kể từ khi bị phát hiện?**
 
