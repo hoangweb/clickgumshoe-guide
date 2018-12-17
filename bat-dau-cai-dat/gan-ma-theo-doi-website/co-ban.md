@@ -4,8 +4,8 @@ description: Chèn mã Javascript trên website (Khuyến nghị)
 
 # Cách 1 \(Javascript\)
 
-> * **Ưu điểm**: Đơn giản, dễ làm. Dành cho mọi website.
-> * **Nhược điểm**: Không theo dõi được click chuột nếu người dùng thoát website quá nhanh \(1-2s\)
+> * **Ưu điểm**: Đơn giản, dễ làm.
+> * **Nhược điểm**: Không theo dõi được click chuột nếu javascript bị chặn trên trình duyệt.
 
 Trên tab "Mã theo dõi" bạn sẽ cấu hình chuyển đổi, sau đó lấy mã javascript để chèn vào website.
 
@@ -50,8 +50,8 @@ Cuối cùng, nhấn nút "Tạo" để lấy mã Javascript và gắn trong c�
 
 {% tabs %}
 {% tab title="Gợi ý thêm" %}
-Phần trên, bạn chỉ mới cấu hình chuyển đổi cho LiveChat và Nút gọi điện, còn chuyển đổi cho Form bạn sẽ cấu hình thêm.  
-Nếu bạn muốn theo dõi chuyển đổi cho Form, bạn cần gắn thêm thẻ class "cgs-submit-form" vào nút submit form. Xem ví dụ:
+Ở trên chưa có cấu hình chuyển đổi cho Form, nếu bạn muốn theo dõi chuyển đổi form thì phải cấu hình thêm.  
+Bạn chỉ cần gắn thẻ class "cgs-submit-form" vào nút submit form:
 
 ```text
 <input type="submit" value="Submit" class="cgs-submit-form"/>
