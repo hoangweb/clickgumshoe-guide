@@ -10,7 +10,7 @@ Từ trang chủ, bạn nhấn nút "**Sửa**" hoặc nhấn mũi tên chọn "
 
 Trong phần cấu hình, phía bên phải mục "Cấu hình chặn" là tùy chỉnh cấu hình chặn click ảo.
 
-### Video hướng dẫn
+### Hướng dẫn cấu hình
 
 Cấu hình chặn click ảo: [https://youtu.be/FqmClvZ\_cKs](https://youtu.be/FqmClvZ_cKs)
 

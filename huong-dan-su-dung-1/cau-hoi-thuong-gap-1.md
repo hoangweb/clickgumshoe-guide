@@ -8,6 +8,10 @@ description: Các câu hỏi thường gặp bạn cần biết
 
 > Phần mềm theo dõi click chuột không giới hạn từ quảng cáo Google.
 
+**Nếu đối thủ dùng 3-4G để đổi IP liên tục thì có chặn được không?**
+
+> Theo quy luật chặn và loại trừ IP xấu của phầm mềm, thì sau một thời gian ngắn hay dài và tùy vào tần suất đối thủ dùng ít hay nhiều IP\), website của bạn sẽ chặn được tối đa IP click tặc.
+
 **Tại sao cần kết nối tài khoản Google Ads của bạn qua API của tôi?**
 
 > Kết nối tài khoản Google Ads bằng cách cho phép Clickgumshoe.com quản lý chiến dịch Adwords của bạn, phần mềm sẽ tự động thêm IP vào khung chặn IP trong chiến dịch. Việc này hoàn toàn tự động qua API và theo chính sách bảo mật [**AdWords OAuth 2.0**](https://developers.google.com/adwords/api/docs/guides/authentication) của Google, không ảnh hưởng đến cài đặt chiến dịch cũng như tối ưu quảng cáo của bạn.
