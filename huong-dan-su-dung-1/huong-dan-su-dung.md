@@ -29,5 +29,6 @@ Diễn giải chi tiết:
 ![](../.gitbook/assets/cauhinh3.png)
 
 > * **Chặn IP khi có số clicks tối thiểu** : Tùy chọn này có giá trị 1 hoặc 2. Nếu chọn 1, nghĩa là người dùng click lần 1 vào website \(lần đầu tiên\) phần mềm sẽ kiểm tra ngay đó là click tặc hay không. Nếu chọn 2, thì click lần 2 mới kiểm tra \(thường những lĩnh vực KH cần tìm hiểu thông tin trên website nhiều lần mới mua hàng\)
-> * **Chặn IP khi vượt quá xx click trong ngày** : Tùy chọn này có giá trị từ 5 đến 100.
+> * **Chặn IP khi vượt quá \[...\] click trong ngày** : Tùy chọn này có giá trị từ 5 đến 100 để hạn chế số lần click của 1 IP click trong ngày. Bạn điều chỉnh cho phù hợp.
+> * Chặn IP khi có ... lần click tặc trong ... ngày
 
