@@ -10,7 +10,7 @@ description: Các câu hỏi thường gặp bạn cần biết
 
 **Nếu đối thủ dùng 3-4G để đổi IP liên tục thì có chặn được không?**
 
-> Theo quy luật chặn và loại trừ IP xấu của phầm mềm, thì sau một thời gian ngắn hay dài và tùy vào tần suất đối thủ dùng ít hay nhiều IP\), website của bạn sẽ chặn được tối đa IP click tặc.
+> Với luật theo dấu IP, phần mềm sẽ bám sát từng IP và loại trừ dần IP xấu theo thời gian. Tùy thuộc vào tần suất đối thủ dùng ít hay nhiều IP, sau một khoảng thời gian ngắn bạn sẽ chặn được tối đa IP click tặc.
 
 **Tại sao cần kết nối tài khoản Google Ads của bạn qua API của tôi?**
 
