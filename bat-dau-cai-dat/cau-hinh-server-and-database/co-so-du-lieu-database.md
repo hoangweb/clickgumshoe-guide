@@ -4,7 +4,7 @@ description: CSDL là nơi lưu thông tin IP và lịch sử nhấp chuột.
 
 # Cơ sở dữ liệu \(CSDL\)
 
-> Google Firebase là một dịch vụ cơ sở dữ liệu thời gian thực hoạt động trên nền tảng đám mây được cung cấp bởi Google. Phần mềm ClickGumshoe sử dụng Firebase để lưu trữ CSDL và hiển thị báo cáo cho bạn. \(tìm hiểu thêm Firebase tại [wikipedia](https://en.wikipedia.org/wiki/Firebase)\)
+> Google Firebase là một dịch vụ cơ sở dữ liệu thời gian thực hoạt động trên nền tảng đám mây được cung cấp bởi Google. Phần mềm ClickGumshoe sử dụng Firebase để lưu trữ CSDL và hiển thị báo cáo cho bạn. \(xem thêm tại [wikipedia](https://en.wikipedia.org/wiki/Firebase)\)
 
 ### Tạo CSDL
 

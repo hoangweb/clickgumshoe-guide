@@ -4,7 +4,7 @@ description: Server là nơi phân tích & xử lý dữ liệu nhấp chuột t
 
 # Máy chủ \(Server\)
 
-> Heroku là dịch vụ cung cấp máy chủ \(server\) miễn phí được cung cấp bởi Salesforce.com. Phần mềm ClickGumshoe sử dụng Heroku để phân tích & xử lý nhấp chuột từ chiến dịch quảng cáo Google của bạn. \(tìm hiểu thêm Heruku tại [wikipedia](https://en.wikipedia.org/wiki/Heroku)\)
+> Heroku là dịch vụ cung cấp máy chủ \(server\) miễn phí được cung cấp bởi Salesforce.com. Phần mềm ClickGumshoe sử dụng Heroku để phân tích & xử lý nhấp chuột từ chiến dịch quảng cáo Google của bạn. \(xem thêm tại [wikipedia](https://en.wikipedia.org/wiki/Heroku)\)
 
 ### Tạo tài khoản Heroku
 
