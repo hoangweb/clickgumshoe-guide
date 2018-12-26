@@ -24,7 +24,5 @@
 ## Hướng dẫn sử dụng
 
 * [Cấu hình chặn click ảo](huong-dan-su-dung-1/huong-dan-su-dung.md)
-* [Lượt truy cập & Báo cáo](huong-dan-su-dung-1/luot-truy-cap-and-bao-cao/README.md)
-  * [Gửi bồi hoàn](huong-dan-su-dung-1/luot-truy-cap-and-bao-cao/gui-boi-hoan.md)
 * [Câu hỏi thường gặp](huong-dan-su-dung-1/cau-hoi-thuong-gap-1.md)
 
