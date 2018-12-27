@@ -14,7 +14,7 @@ description: Các câu hỏi thường gặp bạn cần biết
 
 **Tại sao cần kết nối tài khoản Google Ads của bạn qua API của tôi?**
 
-> Kết nối tài khoản Google Ads bằng cách cho phép Clickgumshoe.com quản lý chiến dịch Adwords của bạn, phần mềm sẽ tự động thêm IP vào khung chặn IP trong chiến dịch. Việc này hoàn toàn tự động qua API và theo chính sách bảo mật [**AdWords OAuth 2.0**](https://developers.google.com/adwords/api/docs/guides/authentication) của Google, không ảnh hưởng đến cài đặt chiến dịch cũng như tối ưu quảng cáo của bạn.
+> Kết nối tài khoản Google Ads bằng cách cho phép Clickgumshoe.com quản lý chiến dịch Adwords của bạn, phần mềm sẽ tự động thêm IP vào khung chặn IP trong chiến dịch. Việc này hoàn toàn tự động qua API và theo chính sách bảo mật [AdWords OAuth 2.0](https://developers.google.com/adwords/api/docs/guides/authentication) của Google, không ảnh hưởng đến cài đặt chiến dịch cũng như tối ưu quảng cáo của bạn.
 >
 > > **CẢNH BÁO!** Một số Tool trên thị trường họ yêu cầu làm người quản lý tài khoản Google Ads của bạn để chặn IP bằng cách gửi lời mời quản lý thủ công qua email của bạn. Điều này rất nguy hiểm, chỉ có những ai bạn thật tin tưởng thì mới chia sẻ Full quyền quản lý cho họ. Bằng cách này, thông tin chiến dịch của bạn sẽ hiển thị trong tài khoản MCC của họ và có thể sửa xóa mà bạn không được kiểm soát.
 
@@ -38,7 +38,7 @@ description: Các câu hỏi thường gặp bạn cần biết
 
 **Tại sao bạn không nhận được email báo cáo hàng ngày?**
 
-> Nếu bạn không nhận được báo cáo gửi qua mail, bạn hãy kiểm tra lại cấu hình SMTP đã đúng chưa. Xem hướng dẫn [**tại đây**](https://help.clickgumshoe.com/bat-dau-cai-dat/cau-hinh-website/smtp).
+> Nếu bạn không nhận được báo cáo gửi qua mail, bạn hãy kiểm tra lại cấu hình SMTP đã đúng chưa. Xem hướng dẫn [tại đây](https://help.clickgumshoe.com/bat-dau-cai-dat/cau-hinh-website/smtp).
 
 **Tại sao tôi đã stop chiến dịch nhưng phần mềm vẫn thống kê click chuột?**
 
