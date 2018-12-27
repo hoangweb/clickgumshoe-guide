@@ -42,5 +42,5 @@ Diễn giải chi tiết:
 
 > Bạn hãy tích chọn các nhà mạng mà bạn muốn chặn địa chỉ CIDR \(ở cấu hình trên\). Ngoài các nhà mạng phổ biến như Viettel, Mobiphone, Vinaphone, Vietnam Mobile; bạn có thể chọn các nhà cung cấp khác ở khung chọn.
 
-**Chúc các bạn thành công!**
+**Chúc bạn thành công!**
 

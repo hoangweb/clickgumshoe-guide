@@ -6,11 +6,13 @@ description: Hướng dẫn đăng ký tài khoản và thêm website tại Clic
 
 ### Tạo tài khoản
 
-Đầu tiên bạn cần tạo một tài khoản người dùng tại [https://clickgumshoe.com/signup?code=fQqBvZdoLgNSH7zoELZ8](https://clickgumshoe.com/signup?code=fQqBvZdoLgNSH7zoELZ8)
+Đầu tiên bạn cần tạo một tài khoản người dùng, tại trang chủ clickgumshoe.com, bạn nhấn nút "Ghi danh" như hình dưới:
 
-Điền đầy đủ thông tin: Tên hiển thị, username, email và mật khẩu.
+![](../.gitbook/assets/ghi-danh.png)
 
-![](../.gitbook/assets/8heegrmowp85rf0unfhude6zodb9zs_m0nvbg1fp5-lh80pxprx6uxkxrid-0kirl-yon9p_oyxkndnodqj4yydpkk8n23u12uo0.bin)
+Điền đầy đủ thông tin: Tên hiển thị, username, email, mật khẩu, capcha và nhấn nút "Ghi danh" như hình dưới:
+
+![](../.gitbook/assets/dang_ky.png)
 
 ### Thêm website
 
