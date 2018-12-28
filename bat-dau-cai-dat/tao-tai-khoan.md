@@ -1,12 +1,12 @@
 ---
-description: Hướng dẫn đăng ký tài khoản và thêm website tại ClickGumshoe.com
+description: Hướng dẫn đăng ký tài khoản và thêm website
 ---
 
 # 1. Tạo tài khoản & thêm website
 
 ### Tạo tài khoản
 
-Đầu tiên bạn cần tạo một tài khoản người dùng, tại trang chủ clickgumshoe.com, bạn nhấn nút "Ghi danh" như hình dưới:
+Đầu tiên bạn cần tạo một tài khoản người dùng, tại trang chủ [clickgumshoe.com](https://Clickgumshoe.com), bạn nhấn nút "**Ghi danh**" như hình dưới:
 
 ![](../.gitbook/assets/ghi-danh.png)
 

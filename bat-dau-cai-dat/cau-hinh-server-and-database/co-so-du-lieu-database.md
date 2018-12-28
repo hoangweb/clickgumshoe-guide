@@ -1,5 +1,5 @@
 ---
-description: CSDL là nơi lưu thông tin IP và lịch sử nhấp chuột.
+description: Hướng dẫn thêm CSDL
 ---
 
 # Cơ sở dữ liệu \(CSDL\)

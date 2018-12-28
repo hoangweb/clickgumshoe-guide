@@ -13,5 +13,4 @@ Cấu hình gồm có:
 * Mail SMTP
 * IPInfo.io
 * Proxycheck.io
-* Lưu cấu hình
 

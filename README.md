@@ -6,7 +6,7 @@ description: Hướng dẫn cài đặt và sử dụng phần mềm Clickgumsho
 
 ### Phần mềm miễn phí 100%
 
-Clickgumshoe.com là phần mềm theo dõi hành vi truy cập trang web và chặn IP click ảo tự động. Đây là giải pháp hạn chế click tặc quảng cáo Google.
+[Clickgumshoe.com](https://Clickgumshoe.com) là phần mềm theo dõi hành vi truy cập trang web và chặn IP click ảo tự động. Đây là giải pháp hạn chế click tặc quảng cáo Google.
 
 > * Tính năng phần mềm [https://chongclicktac.com/phan-mem-chan-click-ao](https://chongclicktac.com/phan-mem-chan-click-ao) 
 > * Cách chặn click ảo hiệu quả [https://www.hoangweb.com/cong-cu/5-cach-chan-click-ao-click-tac-khi-quang-cao-google](https://www.hoangweb.com/cong-cu/5-cach-chan-click-ao-click-tac-khi-quang-cao-google)

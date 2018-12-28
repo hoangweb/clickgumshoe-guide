@@ -1,5 +1,5 @@
 ---
-description: Hướng dẫn thêm Server và CSDL (cơ sở dữ liệu) tại ClickGumshoe.com
+description: Hướng dẫn thêm Server và CSDL (cơ sở dữ liệu)
 ---
 
 # 2. Thêm Server & CSDL
@@ -12,5 +12,4 @@ Cấu hình Server & CSDL gồm có:
 
 * Máy chủ \(Server\)
 * Cơ sở dữ liệu \(CSDL\)
-* Lưu cấu hình
 

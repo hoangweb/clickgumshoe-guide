@@ -1,5 +1,5 @@
 ---
-description: Lưu cấu hình khi đã kết nối Server & CSDL
+description: Lưu cấu hình Server & CSDL
 ---
 
 # Lưu cấu hình

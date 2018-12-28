@@ -1,5 +1,5 @@
 ---
-description: Server là nơi phân tích & xử lý dữ liệu nhấp chuột từ website của bạn.
+description: Hướng dẫn thêm Server
 ---
 
 # Máy chủ \(Server\)
