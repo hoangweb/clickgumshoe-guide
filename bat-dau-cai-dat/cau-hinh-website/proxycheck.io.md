@@ -22,3 +22,7 @@ Copy giá trị này vào trường "Apikey" và nhấn nút "**Kiểm tra**", n
 
 ![](../../.gitbook/assets/proxy-ip-thanh-cong.png)
 
+Bước cuối cùng, sau khi test thành công 3 dịch vụ SMTP, IPInfo.io và Proxycheck.io, bạn nhấn nút "**Lưu**" để hoàn thành.
+
+![](../../.gitbook/assets/luu_cau_hinh.png)
+
