@@ -24,6 +24,8 @@ Mặc định tất cả các người dùng của clickgumshoe có sử dụng 
 
 ### Cấu hình
 
+![C&#x1EA5;u h&#xEC;nh n&#xE2;ng cao \(MCC\)](../../.gitbook/assets/connect-ads-advanced.jpg)
+
 Chúng ta cần 3 thông số: Developer Token, Client ID, Client Secret
 
 Để lấy mã **developer token**, vui lòng xem [hướng dẫn này](https://chongclicktac.com/huong-dan/dang-ky-lay-ma-developer-token-adwords-api/).
